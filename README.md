@@ -1,28 +1,41 @@
-Hi, I'm Anderson Gireli 👩‍💻 👋
-GitHub Logo
+ # **Hi, I'm Anderson Gireli** 👩‍💻 👋 
+###  
+![GitHub Logo](imageanimadaanderson.png)
 
-Who am I?
-👩‍💻 Cloud Analyst🥰.
-📊 Cloud Consulting.
-📚 Analista de Middleware.
-👩‍🎓 Bachelor of Analyze and Develop Systems - Uniban.
-🎓 Master in Cloud & Devops - Faculdade Impacta.
+## Who am I? 
 
-Skills 👩‍💻
-💻 Cloud & Devops.
-🐍 Python.
-🗄 SQL.
-💻 Administração de Cloud AWS - Azure - GCP.
-🧮 Administração de servidores: RedHat, CentOs, Windows Server 2008, 2012, 2016.
-🔮 Servidores WebServers: Apache, IIS, WebSphere, Weblogic, Jboss, .Net, Wildfly.
-📊 Monitoring tools: Zabbix, Grafana
-🧪 Server Virtualization, installation, configuration and backup of VM's with Vcenter
-Find me around the world 🌎
-Linkedin
-Instagram
-Blog
+* 👩‍💻 Cloud Analyst 🥰.
+* 📊 Cloud Consulting.
+* 📚 Analista de Middleware.
+* 👩‍🎓 Bachelor of Analyze and Develop Systems - Uniban.
+* 🎓 Master in Cloud & Devops - Faculdade Impacta.
 
-<!---
-Agirelli2021/Agirelli2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills 👩‍💻
+
+* 💻 Cloud & Devops
+* 💻 Administração de Cloud AWS - Azure - GCP.
+* 🐍 Python.
+* 🗄 SQL.
+* 🔮 Artificial Intelligence (AI)
+* 🧪 Machine Learning (ML).
+* 👩‍ Design Thinking
+* 🧮 Natural Language Processing (NLP)
+* 📊 Blockchain
+* 🧮 Administração de servidores: RedHat, CentOs, Windows Server 2008, 2012, 2016
+* 🔮 Servidores WebServers: Apache, IIS, WebSphere, Weblogic, Jboss, .Net, Wildfly.
+* 📊 Monitoring tools: Zabbix, Grafana
+* 🧪 Server Virtualization, installation, configuration and backup of VM's with Vcenter
+* 💻 Cloud & Devops
+* 📊 SCCM
+* 🔮 CCNA CISCO 
+
+
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin]( https://www.linkedin.com/in/andersongireli/)
+
+
+
+
+
