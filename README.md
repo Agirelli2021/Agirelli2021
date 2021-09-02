@@ -1,6 +1,6 @@
  # **Hi, I'm Anderson Gireli** 👩‍💻 👋 
 ###  
-![GitHub Logo](imageanimadaanderson.png)
+![GitHub Logo](Analyst Cloud.png)
 
 ## Who am I? 
 
