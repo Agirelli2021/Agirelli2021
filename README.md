@@ -15,7 +15,12 @@
 * 💻 Cloud & Devops
 * 💻 Administração de Cloud AWS - Azure - GCP.
 * 🐍 Python.
+* 💻 Terrafom.
+* 💻 Ansible
+* 💻 Docker
+* 💻 Kubernetes
 * 🗄 SQL.
+* 🧮 CI/CD
 * 🔮 Artificial Intelligence (AI)
 * 🧪 Machine Learning (ML).
 * 👩‍ Design Thinking
